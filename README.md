@@ -12,11 +12,24 @@
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,java,spring,mysql,git,github,vscode," />
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,spring,mysql,git,github,vscode,eclipse,androidstudio,intellij" />
 </div>
 
     
   
+---
+
+
+## 🌐 Contatos
+
+📧 Email: pv23749@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/jhonnata-lennon-5444b02a3/
+
+💻 GitHub: github.com/jh0nn4t430
+
+
+
 ---
 
 
@@ -27,4 +40,4 @@
 
 
 
-🤝 Sempre aberto a colaborações, parcerias e ideias legais
+🤝 Sempre aberto a colaborações e ideias legais
