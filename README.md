@@ -9,10 +9,12 @@
 
 ---
 
-<p align="left">
-  <a href="https://github.com/jh0nn4t4">
-    </a>
-</p>
+## 🚀 Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,spring,mysql,git,github,vscode," />
+</div>
+
     
   
 ---
