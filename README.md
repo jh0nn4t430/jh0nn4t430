@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Jhonnata Lennon
 
-<!--
-**jh0nn4t430/jh0nn4t430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 ** Desenvolvedor **  
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
+ **Estudante de programação, programo em Java com Spring Boot, desenvolvo aplicações Android com Java e também tenho conhecimento de JavaScript, HTML e CSS, além de ser ocasionalmente participante de projetos de software.**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+<p align="left">
+  <a href="https://github.com/jh0nn4t4">
+    </a>
+</p>
+    
+  
+---
+
+
+## 🚀 Filosofia
+
+> _"Código não se trata apenas de resolver problemas. 
+> Trata-se de construir soluções que sejam escaláveis, duradouras e que gerem valor real."_
+
+
+
+🤝 Sempre aberto a colaborações, parcerias e ideias legais
