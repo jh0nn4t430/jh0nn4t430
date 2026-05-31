@@ -20,9 +20,9 @@
 ---
 ## 👨‍💻 Sobre mim
 
-🎓 Gardução em Análise e Desenvolvimento de Sistemas - Faculdade Mauricio de Nassau
+🎓 Graduação em Análise e Desenvolvimento de Sistemas - Faculdade Mauricio de Nassau
 
---
+---
 
 
 ## 🌐 Contatos
